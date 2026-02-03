@@ -2,7 +2,7 @@
      WAJDI BEN ZINEB | IDE-THEMED PORTFOLIO
      ========================== -->
 <p align="center">
-  <img src="space-shooter.gif" alt="GitHub Space Shooter" />
+  <img src="space-shooter.gif" alt="GitHub  Space Shooter" />
 </p>
 <div align="center">
 
